@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:4000</loc>
+        <loc>http://www.maeniel.com</loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/past/</loc>
+        <loc>http://www.maeniel.com/past/</loc>
     </url>
     
 </urlset>
