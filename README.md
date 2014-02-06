@@ -1,3 +1,3 @@
 # tracks
 
-[license](beerware_logo.png)
+[](beerware_logo.png)
